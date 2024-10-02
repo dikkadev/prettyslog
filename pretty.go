@@ -20,7 +20,7 @@ const (
 	FgMagenta = "\033[35m"
 	FgCyan    = "\033[36m"
 	FgWhite   = "\033[37m"
-	FgGray    = "\033[91m"
+	FgGray    = "\033[90m"
 
 	ColorReset = "\033[0m"
 )
