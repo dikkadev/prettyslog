@@ -7,7 +7,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/sett17/prettyslog"
+	"github.com/dikkadev/prettyslog"
 )
 
 func TestPrettyslogHandlerVisually(t *testing.T) {

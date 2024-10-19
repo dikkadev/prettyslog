@@ -1,3 +1,3 @@
-module github.com/sett17/prettyslog
+module github.com/dikkadev/prettyslog
 
 go 1.23.0
