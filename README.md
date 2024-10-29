@@ -12,7 +12,7 @@
 
 ## Installation
 ```bash
-go get github.com/sett17/prettyslog
+go get github.com/dikkadev/prettyslog
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ package main
 
 import (
     "log/slog"
-    "github.com/sett17/prettyslog"
+    "github.com/dikkadev/prettyslog"
 )
 
 func main() {
